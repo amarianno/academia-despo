@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author amarianno
+ *
+ */
+module Cofrinho {
+}
